@@ -17,7 +17,7 @@ Check out [API LIVE DEMO](https://backend-accessories.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/Hannibal7009/Accessories.git
+git clone https://github.com/AishwaryaShetty7/Accessories.git
 ```
 2. Backend setting
 ```
