@@ -52,7 +52,6 @@ INSTALLED_APPS = [
     'apps.orders',
     'apps.items',
     'cloudinary',
-    "apps.test1"
     'django_filters',
 ]
 
